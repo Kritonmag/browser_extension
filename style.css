@@ -1,0 +1,7 @@
+.descriptor-no-cursor {
+  cursor: default !important;
+}
+
+.descriptor:hover {
+  cursor: pointer;
+}
